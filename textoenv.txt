@@ -1,3 +1,0 @@
-DATABASE_URL=postgresql+psycopg://admin:postgre@localhost:5432/bem_saude
-AMBIENTE=dev
-LOG_LEVEL=DEBUG
